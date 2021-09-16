@@ -1,0 +1,46 @@
+body{
+	margin:0;
+	padding:0;
+	background:#34495e;
+}
+.box{
+	width:300px;
+	padding:40px;
+	border:none;
+	position:absolute;
+	top:45px;
+	left:30%;
+	transform:translate(30%,20%);
+	background:#191919;
+	text-align:center;
+}
+.box h1{
+	color:#fff;
+	
+}
+.form-group{
+	width:200px;
+	padding:10px 50px;
+	
+}
+.inner-login{
+	width:200px;
+	padding:8px;
+	text-align:center;
+	border:2px solid #3498db;
+	background:none;
+	color:#fff;
+    border-radius:24px;
+	outline:0;
+}
+.btn{
+	width:100px;
+	padding:8px;
+	border:2px solid #2ecc71;
+	background:none;
+	color:#fff;
+	border-radius:24px;
+}
+.btn:hover{
+	background: #2ecc71;
+}
